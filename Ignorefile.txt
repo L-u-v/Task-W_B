@@ -1,1 +1,0 @@
-Is it compulsory to exclude one file from commit
